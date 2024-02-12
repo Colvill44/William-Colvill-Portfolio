@@ -13,6 +13,7 @@ function Navbar() {
     <>
       <AppBar position="static">
         <Toolbar>
+          <br />
           <Box
             component="img"
             sx={{
